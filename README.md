@@ -1,2 +1,2 @@
-# AIConnect4 Project Game
+# AIConnect4 Project Game based on AI
 AIConnect4 is a two-player game where the goal is to connect four of your pieces in a row, either horizontally, vertically, or diagonally, before your opponent does.
